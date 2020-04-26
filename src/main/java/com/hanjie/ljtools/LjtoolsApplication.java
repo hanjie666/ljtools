@@ -7,7 +7,7 @@ import org.springframework.boot.web.servlet.support.SpringBootServletInitializer
 
 @SpringBootApplication
 public class LjtoolsApplication extends SpringBootServletInitializer {
-
+    //hello
     public static void main(String[] args) {
         SpringApplication.run(LjtoolsApplication.class, args);
     }
